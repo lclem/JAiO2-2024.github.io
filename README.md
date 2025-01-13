@@ -12,6 +12,8 @@
 * [cw9](https://lclem.github.io/JAiO2-2024.github.io/tutorials/cw9.pdf)
 * [cw10](https://lclem.github.io/JAiO2-2024.github.io/tutorials/cw10.pdf)
 * [cw11](https://lclem.github.io/JAiO2-2024.github.io/tutorials/cw11.pdf)
+* [cw12](https://lclem.github.io/JAiO2-2024.github.io/tutorials/cw12.pdf)
+* [cw13](https://lclem.github.io/JAiO2-2024.github.io/tutorials/cw13.pdf)
   
 ## Homeworks
 * [hw1](https://lclem.github.io/JAiO2-2024.github.io/homeworks/hw1.pdf)
