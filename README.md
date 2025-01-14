@@ -18,3 +18,4 @@
 ## Homeworks
 * [hw1](https://lclem.github.io/JAiO2-2024.github.io/homeworks/hw1.pdf)
 * [hw2](https://lclem.github.io/JAiO2-2024.github.io/homeworks/hw2.pdf)
+* [hw3](https://lclem.github.io/JAiO2-2024.github.io/homeworks/hw3.pdf)
